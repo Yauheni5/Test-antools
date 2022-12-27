@@ -1,0 +1,50 @@
+/* import normalize.css */
+@import url('../vendor/normalize.css');
+/* import fonts */
+@import url('../vendor/fonts/Poppins/poppins.css');
+@import url('../vendor/fonts/Roboto/roboto.css');
+
+/* page */
+@import url('../blocks/page/page.css');
+
+/* logo antools */
+@import url('../blocks/logo/logo.css');
+
+/* menu */
+@import url('../blocks/menu/menu.css');
+
+/* header */
+@import url('../blocks/header/header.css');
+
+/* about */
+@import url('../blocks/about/about.css');
+
+/* form-submit */
+@import url('../blocks/form-submit/form-submit.css');
+
+/* section */
+@import url('../blocks/section/section.css');
+
+/* social */
+@import url('../blocks/social/social.css');
+
+/* popular */
+@import url('../blocks/popular/popular.css');
+
+/* card */
+@import url('../blocks/card/card.css');
+
+/* brands */
+@import url('../blocks/brands/brands.css');
+
+/* novelties */
+@import url('../blocks/novelties/novelties.css');
+
+/* testimonial */
+@import url('../blocks/testimonial/testimonial.css');
+
+/* invite */
+@import url('../blocks/invite/invite.css');
+
+/* footer */
+@import url('../blocks/footer/footer.css');

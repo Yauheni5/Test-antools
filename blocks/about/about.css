@@ -1,0 +1,17 @@
+@import url('./__title/about__title.css');
+@import url('./__title/_dot/about__title_dot.css');
+@import url('./__subtitle/about__subtitle.css');
+@import url('./__form/about__form.css');
+@import url('./__input/about__input.css');
+@import url('./__button/about__button.css');
+
+.about {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  background-image: url('../../image/about_bg_image.svg');
+  background-size: 53%;
+  background-repeat: no-repeat;
+  background-position: 125% 0;
+  padding-top: 46px;
+  margin-top: 58px;
+}

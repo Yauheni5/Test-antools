@@ -1,0 +1,12 @@
+@import url('./__title/popular__title.css');
+@import url('./__subtitle/popular__subtitle.css');
+@import url('./__cards/popular__cards.css');
+@import url('./__button/popular__button.css');
+@import url('./__card/popular__card.css');
+
+.popular {
+  margin-top: 200px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}

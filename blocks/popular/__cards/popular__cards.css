@@ -1,0 +1,7 @@
+.popular__cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 100px 20px;
+  justify-content: center;
+  margin-top: 110px;
+}

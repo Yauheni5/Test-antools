@@ -1,0 +1,11 @@
+.testimonial__wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.testimonial__wrapper::before {
+  content: url('../../../image/icon/quotes_icon.svg');
+  position: absolute;
+  top: 10%;
+  left: 43%;
+}

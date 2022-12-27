@@ -1,0 +1,43 @@
+@import url('./__logo/card__logo.css');
+@import url('./__logo/_figma/card__logo_figma.css');
+@import url('./__logo/_invision/card__logo_invision.css');
+@import url('./__logo/_notion/card__logo_notion.css');
+@import url('./__logo/_sketch/card__logo_sketch.css');
+@import url('./__logo/_slack/card__logo_slack.css');
+@import url('./__logo/_vsc/card__logo_vsc.css');
+@import url('./__logo/_zeplin/card__logo_zeplin.css');
+@import url('./__logo/_phpstorm/card__logo_phpstorm.css');
+@import url('./__logo/_toolbox/card__logo_toolbox.css');
+@import url('./__logo/_procreate/card__logo_procreate.css');
+@import url('./__title/card__title.css');
+@import url('./__subtitle/card__subtitle.css');
+@import url('./__text/card__text.css');
+@import url('./__footer/card__footer.css');
+@import url('./__button/card__button.css');
+@import url('./__like/card__like.css');
+@import url('./__download/card__download.css');
+@import url('./__link/card__link.css');
+
+.card {
+  display: grid;
+  grid-template-columns: 1fr 3fr 1fr;
+  grid-template-areas:
+    "logo title title"
+    "logo subtitle subtitle"
+    "text text text"
+    "footer footer footer";
+  box-sizing: border-box;
+  cursor: pointer;
+  background: inherit;
+  transition: transform .5s linear;
+}
+
+.card:hover {
+  transition: all .5s linear;
+  transform: translateY(-20px);
+  background: -webkit-linear-gradient(230deg, rgb(255, 72, 66), rgb(44, 53, 61) 6%);
+  background: -moz-linear-gradient(230deg, rgb(255, 72, 66), rgb(44, 53, 61) 6%);
+  background: linear-gradient(230deg, rgb(255, 72, 66), rgb(44, 53, 61) 6%);
+  backdrop-filter: blur(25px);
+  border-radius: 15px;
+}

@@ -1,0 +1,13 @@
+@import url('./__wrapper/novelties__wrapper.css');
+@import url('./__subtitle/novelties__subtitle.css');
+@import url('./__link/novelties__link.css');
+@import url('./__cards/novelties__cards.css');
+@import url('./__card/novelties__card.css');
+@import url('./__wrapper/_cards/novelties__wrapper_cards.css');
+@import url('./__wrapper/_text/novelties__wrapper_text.css');
+
+.novelties {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 220px;
+}

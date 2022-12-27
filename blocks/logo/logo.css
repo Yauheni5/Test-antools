@@ -1,0 +1,12 @@
+.logo {
+  display: block;
+  background-image: url('../../image/logo.svg');
+  background-repeat: no-repeat;
+  width: 140px;
+  height: 38px;
+  transition: all .5s linear;
+}
+
+.logo:hover {
+  opacity: .3;
+}

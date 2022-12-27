@@ -1,0 +1,5 @@
+.menu__arrow {
+  display: inline-block;
+  transform: rotate(90deg);
+  font-size: 20px;
+}

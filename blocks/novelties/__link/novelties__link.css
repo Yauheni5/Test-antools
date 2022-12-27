@@ -1,0 +1,10 @@
+.novelties__link {
+  display: block;
+  box-sizing: border-box;
+  margin-top: 60px;
+  padding: 16px 40px;
+  cursor: pointer;
+  background-color: #FF6E30;
+  border-radius: 8px;
+  width: fit-content;
+}

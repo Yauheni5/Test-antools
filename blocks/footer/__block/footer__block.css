@@ -1,0 +1,9 @@
+.footer__block {
+  display: flex;
+  flex-direction: column;
+  max-width: 260px;
+}
+
+.footer__block:first-of-type {
+  margin-right: 30px;
+}

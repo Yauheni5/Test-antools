@@ -1,0 +1,7 @@
+.brands__link {
+  transition: all .5s linear;
+}
+
+.brands__link:hover {
+  opacity: .3;
+}

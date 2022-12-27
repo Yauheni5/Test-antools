@@ -1,0 +1,13 @@
+@import url('./__wrapper/page__wrapper.css');
+
+.page {
+  font-family: 'Poppins', Arial, sans-serif;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  color: white;
+  background-color: #1E252B;
+}

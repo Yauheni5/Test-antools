@@ -1,0 +1,8 @@
+.testimonial__user {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  background-image: url('../../../image/photo_user_testimonial.svg');
+  width: 399px;
+  height: 492px;
+}

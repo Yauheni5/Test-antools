@@ -1,0 +1,8 @@
+.card__subtitle {
+  grid-area: subtitle;
+  font-size: 18px;
+  line-height: 27px;
+  color: rgba(255, 165, 55, 0.55);
+  margin: 0;
+  padding-left: 30px;
+}

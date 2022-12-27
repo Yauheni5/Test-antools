@@ -1,0 +1,10 @@
+.testimonial__arrow {
+  position: absolute;
+  font-size: 50px;
+  text-decoration: none;
+  color: white;
+}
+
+.testimonial__arrow:hover {
+  color: #FF6E30;
+}

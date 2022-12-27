@@ -1,0 +1,17 @@
+@import url('./__wrapper/testimonial__wrapper.css');
+@import url('./__arrow/testimonial__arrow.css');
+@import url('./__arrow/_left/testimonial__arrow_left.css');
+@import url('./__arrow/_right/testimonial__arrow_right.css');
+@import url('./__user/testimonial__user.css');
+@import url('./__about/testimonial__about.css');
+@import url('./__user-name/testimonial__user-name.css');
+@import url('./__user-info/testimonial__user-info.css');
+@import url('./__text/testimonial__text.css');
+@import url('./__pagination/testimonial__pagination.css');
+@import url('./__pagination/_item/testimonial__pagination_item.css');
+@import url('./__pagination/_item/_item-active/testimonial__pagination_item-active.css');
+
+.testimonial {
+  margin-top: 200px;
+  position: relative;
+}

@@ -1,0 +1,12 @@
+.social__link {
+  display: inline-block;
+  width: 58px;
+  height: 58px;
+  background-repeat: no-repeat;
+  background-position: 50%;
+  transition: all .5s linear;
+}
+
+.social__link:hover {
+  opacity: .3;
+}

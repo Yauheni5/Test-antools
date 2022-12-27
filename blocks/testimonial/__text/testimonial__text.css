@@ -1,0 +1,11 @@
+.testimonial__text {
+  margin: 128px 0 0 65px;
+  max-width: 400px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 30px;
+  letter-spacing: 0.015em;
+  color: rgba(255, 255, 255, 0.78);
+}

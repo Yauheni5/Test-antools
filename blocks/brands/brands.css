@@ -1,0 +1,13 @@
+@import url('./__title/brands__title.css');
+@import url('./__link/brands__link.css');
+@import url('./__wrapper/brands__wrapper.css');
+
+.brands {
+  background: -webkit-linear-gradient(142deg, rgb(255, 72, 66), rgb(44, 53, 61) 11%);
+  background: -moz-linear-gradient(142deg, rgb(255, 72, 66), rgb(44, 53, 61) 11%);
+  background: linear-gradient(142deg, rgb(255, 72, 66), rgb(44, 53, 61) 11%);
+  backdrop-filter: blur(25px);
+  border-radius: 25px;
+  padding: 55px 82px;
+  margin-top: 200px;
+}

@@ -1,0 +1,11 @@
+@import url('./__login/header__login.css');
+@import url('./__authorization/header__authorization.css');
+@import url('./__button/header__button.css');
+
+.header {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 39px;
+}

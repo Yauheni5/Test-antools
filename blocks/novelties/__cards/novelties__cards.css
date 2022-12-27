@@ -1,0 +1,6 @@
+.novelties__cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 50px 0;
+  justify-content: space-between;
+}

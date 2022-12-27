@@ -1,0 +1,6 @@
+.brands__wrapper {
+  display: flex;
+  justify-content: space-between;
+  overflow: hidden;
+  margin-top: 55px;
+}

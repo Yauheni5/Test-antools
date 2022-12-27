@@ -1,0 +1,12 @@
+@import url('./__title/invite__title.css');
+@import url('./__subtitle/invite__subtitle.css');
+@import url('./__form/invite__form.css');
+@import url('./__input/invite__input.css');
+@import url('./__button/invite__button.css');
+
+.invite {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 250px;
+}

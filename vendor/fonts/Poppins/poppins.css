@@ -1,0 +1,47 @@
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src:
+    url("Poppins-Regular.woff2") format("woff2"),
+    url("Poppins-Regular.woff") format("woff"),
+    url("Poppins-Regular.ttf") format("ttf"),
+    url('Poppins-Regular.otf') format('otf');
+}
+
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src:
+    url("Poppins-Medium.woff2") format("woff2"),
+    url("Poppins-Medium.woff") format("woff"),
+    url("Poppins-Medium.ttf") format("ttf"),
+    url('Poppins-Medium.otf') format('otf');
+}
+
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src:
+    url("Poppins-SemiBold.woff2") format("woff2"),
+    url("Poppins-SemiBold.woff") format("woff"),
+    url("Poppins-SemiBold.ttf") format("ttf"),
+    url('Poppins-SemiBold.otf') format('otf');
+}
+
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src:
+    url("Poppins-Bold.woff2") format("woff2"),
+    url("Poppins-Bold.woff") format("woff"),
+    url("Poppins-Bold.ttf") format("ttf"),
+    url('Poppins-Bold.otf') format('otf');
+}
